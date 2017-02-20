@@ -29,10 +29,10 @@
 // Check the adodb/drivers/ directory for support for your database
 // you may choose from many (mysql is the default)
 $cfg["db_type"] = "mysql";       // mysql, postgres7, postgres8 view adodb/drivers/
-$cfg["db_host"] = "localhost";   // DB host computer name or IP
-$cfg["db_name"] = "torrentflux"; // Name of the Database
-$cfg["db_user"] = "root";        // username for your MySQL database
-$cfg["db_pass"] = "";            // password for database
+$cfg["db_host"] = "eu-cdbr-azure-west-d.cloudapp.net";   // DB host computer name or IP
+$cfg["db_name"] = "torrent"; // Name of the Database
+$cfg["db_user"] = "b5fe2b69221b4f";        // username for your MySQL database
+$cfg["db_pass"] = "350f9b81";            // password for database
 /**************************************************************************/
 
 
